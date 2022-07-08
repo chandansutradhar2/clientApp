@@ -49,26 +49,6 @@ function add(num1, num2) {
 
 add("5", "6");
 
-// function printTicket(){
-// /*    let ticketId='t0-388373-337';
-//     let uname="Mr Suraj Kuamr";
-//     let tname="Rajdhani Express";
-//     let sdate="20-07-2022:16:20:00";
-// */
-//     let ticketId='t0-388373-337';
-//     let full_name="Mr Suraj Kuamr";
-//     let train_name="Rajdhani Express";
-//     let journey_state_date="20-07-2022:16:20:00";
-
-// }
-
-// function printTicket() {
-//   let ticketId = "t0-388373-337";
-//   let full_name = "Mr Suraj Kuamr";
-//   let train_name = "Rajdhani Express";
-//   let journey_state_date = "20-07-2022:16:20:00";
-// }
-
 
 function printTicket(){
     //new implementation
